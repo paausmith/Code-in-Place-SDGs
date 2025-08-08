@@ -1,5 +1,5 @@
 # Code-in-Place-SDGs
-Date of the project: 2020 <br>
+Date of the project: June 2020 <br>
 <br>
 This is a small final project of the course Code in Place that I took on Python programming.<br>
 <br>
